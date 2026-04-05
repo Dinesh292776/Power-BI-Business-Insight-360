@@ -175,37 +175,18 @@ In Home view, all the views button will be available. User will land on specific
 - Support
 
 
-## Home Page
+## Dashboard Overview
 
 ![Home.gif](https://github.com/Dinesh292776/Power-BI-Business-Insight-360/blob/main/Home.gif)
 
-## Info Page
-
-![Info.gif](https://github.com/Dinesh292776/Power-BI-Business-Insight-360/blob/main/info%20page.gif)
 
 
-## Finance View
 
-![Finance.gif](https://github.com/Dinesh292776/Power-BI-Business-Insight-360/blob/main/Finance%20view.gif)
-## Sales View
 
-![Sales.gif](https://github.com/Dinesh292776/Power-BI-Business-Insight-360/blob/main/Sales%20view.gif)
 
-## Marketing View
 
-![Marketing.gif](https://github.com/Dinesh292776/Power-BI-Business-Insight-360/blob/main/Market%20view.gif)
 
-## Supply chain View
 
-![Supply chain.gif](https://github.com/Dinesh292776/Power-BI-Business-Insight-360/blob/main/Supply%20chain%20view.gif)
-
-## Executive View
-
-![Executive.gif](https://github.com/Dinesh292776/Power-BI-Business-Insight-360/blob/main/Executive%20view.gif)
-
-## Support
-
-![Support](https://github.com/Dinesh292776/Power-BI-Business-Insight-360/blob/main/support.gif)
 
 
 
