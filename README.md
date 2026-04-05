@@ -177,7 +177,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Dashboard Overview
 
-![Home.gif](https://github.com/Dinesh292776/Power-BI-Business-Insight-360/blob/main/Home.gif)
+![overview.gif](https://github.com/Dinesh292776/Power-BI-Business-Insight-360/blob/main/overview.gif)
 
 
 
